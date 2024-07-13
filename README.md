@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">Laravel Stisla</h1>
+<h1 align="center">Laravel 11 Stisla</h1>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
