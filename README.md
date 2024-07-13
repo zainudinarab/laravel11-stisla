@@ -30,6 +30,19 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Quick start
+
+Several quick start options are available:
+
+-   Clone the repo: `git clone https://github.com/zainudinarab/laravel11-stisla.git`
+-   Run `cd` to the newly created `/laravel11-stisla` directory
+-   Run `composer install` command
+-   Run `npm install` command
+-   Run `npm run dev` command
+-   Run `cp .env.example .env` command
+-   Run `php artisan key:generate` command
+-   Run `php artisan serve` command
+-   Done
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
